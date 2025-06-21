@@ -1,4 +1,4 @@
-# WIA1003 Computer Systems and Organization (University of Malaya)
+# WIX1003 Computer Systems and Organization (University of Malaya)
 
 This repository contains materials related to the course **WIA1003 Computer Systems and Organization**, offered at the University of Malaya.
 
